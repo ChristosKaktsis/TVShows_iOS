@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1F4BC2F-130A-4C9B-8B01-0B0F57BB6EE0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73C2BFCF-BB34-4526-9C54-C06A036F5FF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TVShows/Presentation/TvshowDetail/ViewModels/TvShowDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(tvShow:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6ACA2B1-951E-49E3-855B-769D12241AA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TVShows/Presentation/TvshowDetail/TvShowDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "tapFunction(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8BB31E8-9D7D-4E9E-BB86-AEB1FD8F5FA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TVShows/Presentation/TvshowDetail/TvShowDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "tapFunction(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8BB31E8-9D7D-4E9E-BB86-AEB1FD8F5FA0 - 7acbf2b97b4bd8c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TVShows.TvShowDetailViewController.tapFunction(sender: __C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "TVShows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ckaktsis/Desktop/Projects/TVShows/TVShows/Presentation/TvshowDetail/TvShowDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "B8BB31E8-9D7D-4E9E-BB86-AEB1FD8F5FA0 - 7acbf2b97b4bd8c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TVShows.TvShowDetailViewController.tapFunction(sender: __C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "TVShows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ckaktsis/Desktop/Projects/TVShows/TVShows/Presentation/TvshowDetail/TvShowDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
